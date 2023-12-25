@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChavhanMahesh956
-- 👀 I’m interested in Learning new things, solving DSA problem, BE.
-- 🌱 I’m currently Improving my skills.
+- 👀 I’m interested in Learning new things, solving DSA problem.
+- 🌱 I’m currently working on my skills.
 - 💞️ I’m looking to collaborate and for job.
 - 📫 How to reach me maheshchavhan956@gmail.com this is my email ID.
 
